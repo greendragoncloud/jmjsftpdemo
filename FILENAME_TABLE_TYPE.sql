@@ -1,0 +1,1 @@
+CREATE OR REPLACE TYPE filename_table_type AS TABLE OF VARCHAR2(255);
